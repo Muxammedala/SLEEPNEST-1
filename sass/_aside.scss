@@ -1,0 +1,484 @@
+.aside .container{
+    padding-left: 150px;
+    padding-right: 150px;  
+    padding-top: 100px;
+   
+}
+.aside-container{
+    background-color: #464351;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 353px;
+}
+.aside-box{
+    margin-left: 80px;
+}
+.aside-list{
+    position: relative;
+    right: 200px;
+}
+.aside-title{
+    font-family: Unbounded;
+font-weight: 800;
+font-size: 90px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+}
+.aside-text{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+margin-top: 20px;
+}
+.aside-img{
+    width: 800px;
+    height: 576.19px;
+    position: relative;
+    z-index: 1;
+}
+.aside-subtitle{
+    font-family: Unbounded;
+font-weight: 600;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+}
+.aside-subtext{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+ width: 398.33px;
+ margin-top: 20px;
+}
+.aside-desc{
+    font-family: Inter;
+font-weight: 400;
+font-size: 12.47px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+ background-color: #FFFFFF;
+ color: #000000;
+ border: 1px solid white;
+ width: 115.5199966430664px;
+height: 39px;
+border-radius: 15px;
+align-items: center; 
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+.aside-desc:hover{
+    color: white;
+    background-color: #464351;
+}
+@media (max-width: 1920px){
+    .container{
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    .aside .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 100px;
+       
+    }
+    .aside-container{
+        background-color: #464351;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        height: 353px;
+    }
+    .aside-box{
+        margin-left: 40px;
+    }
+    .aside-list{
+        position: relative;
+        right: 285px;
+    }
+    .aside-title{
+        font-family: Unbounded;
+    font-weight: 800;
+    font-size: 90px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    margin-top: 20px;
+    }
+    .aside-img{
+        width: 800px;
+        height: 576.19px;
+        position: relative;
+        z-index: 1;
+        right: 55px;
+    }
+    .aside-subtitle{
+        font-family: Unbounded;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+     width: 398.33px;
+     margin-top: 20px;
+    }
+    .aside-desc{
+        font-family: Inter;
+    font-weight: 400;
+    font-size: 12.47px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+     background-color: #FFFFFF;
+     color: #000000;
+     border: 1px solid white;
+     width: 115.5199966430664px;
+    height: 39px;
+    border-radius: 15px;
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    }
+    .aside-desc:hover{
+        color: white;
+        background-color: #464351;
+    }
+}
+@media (max-widht: 1440px){
+    .container{
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .aside .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 100px;
+       
+    }
+    .aside-container{
+        background-color: #464351;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        
+    }
+    .aside-box{
+        margin-left: 40px;
+    }
+    .aside-list{
+        position: relative;
+        right: 235px;
+    }
+    .aside-title{
+        font-family: Unbounded;
+    font-weight: 800;
+    font-size: 90px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    margin-top: 20px;
+    }
+    .aside-img{
+        width: 800px;
+        height: 576.19px;
+        position: relative;
+        z-index: 1;
+ 
+    }
+    .aside-subtitle{
+        font-family: Unbounded;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+     width: 398.33px;
+     margin-top: 20px;
+    }
+    .aside-desc{
+        font-family: Inter;
+    font-weight: 400;
+    font-size: 12.47px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+     background-color: #FFFFFF;
+     color: #000000;
+     border: 1px solid white;
+     width: 115.5199966430664px;
+    height: 39px;
+    border-radius: 15px;
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    }
+    .aside-desc:hover{
+        color: white;
+        background-color: #464351;
+    }
+}
+@media (max-width: 1000px){
+    .container{
+        max-width: 760px;
+        margin: 0 auto;
+    }
+    .aside .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 300px;
+       
+    }
+    .aside-container{
+        background-color: #464351;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        height: 483px;
+    }
+    .aside-box{
+        margin-left: 40px;
+        margin-top: 150px;
+    }
+    .aside-list{
+        position: relative;
+        right: 650px;
+        margin-top: 150px;
+    }
+    .aside-title{
+        font-family: Unbounded;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    margin-top: 20px;
+    }
+    .aside-img{
+        width: 700px;
+        height: 504.17px;
+        position: relative;
+        z-index: 1;
+        right: 220px;
+        bottom: 300px;
+    }
+    .aside-subtitle{
+        font-family: Unbounded;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+     width: 398.33px;
+     margin-top: 20px;
+    }
+    .aside-desc{
+        font-family: Inter;
+    font-weight: 400;
+    font-size: 12.47px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+     background-color: #FFFFFF;
+     color: #000000;
+     border: 1px solid white;
+     width: 115.5199966430664px;
+    height: 39px;
+    border-radius: 15px;
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    }
+    .aside-desc:hover{
+        color: white;
+        background-color: #464351;
+    }
+}
+@media (max-width: 760px){
+    .container{
+        max-width: 390px;
+        margin: 0 auto;
+    }
+    .aside .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 150px;
+        text-align: center;
+    }
+    .aside-container{
+        background-color: #464351;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+         
+        
+    }
+    .aside-box{
+        position: relative;
+        bottom: 150px;
+         left: 90px;
+    }
+    .aside-list{
+        position: relative;
+        right: 400px;
+        margin-top: 250px;
+    text-align: center;
+    align-items: center;
+    }
+    .aside-title{
+        font-family: Unbounded;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    margin-top: 20px;
+    }
+    .aside-img{
+        width: 350px;
+        height: 252.08px;
+        position: relative;
+        z-index: 1;
+        right: 135px;
+        bottom: 250px;
+    }
+    .aside-subtitle{
+        font-family: Unbounded;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+    }
+    .aside-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+     width: 207.93px;
+     margin-top: 20px;
+    }
+    .aside-desc{
+        font-family: Inter;
+    font-weight: 400;
+    font-size: 12.47px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+     background-color: #FFFFFF;
+     color: #000000;
+     border: 1px solid white;
+     width: 115.5199966430664px;
+    height: 39px;
+    border-radius: 15px;
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 45px;
+    }
+    .aside-desc:hover{
+        color: white;
+        background-color: #464351;
+    }
+}

@@ -1,0 +1,347 @@
+.sidaber .container{
+    padding-left: 150px;
+    padding-right: 150px;  
+    padding-top: 150px;
+}
+.sidaber-subtitle{
+    font-family: Unbounded;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000; 
+}
+.sidaber-subtext{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #000000;
+margin-top: 40px;
+}
+.sidaber-subject{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #000000;
+}
+.sidaber-img{
+    width: 250px;
+    height: 187.8300018310547px;
+    border-radius: 15px;
+     
+     
+}
+.sidaber-item{
+    position: relative;
+    width: 266px;
+height: 243.8300018310547px;
+ flex: 20%;
+}
+.sidaber-logo{
+   border: 1px solid #D4D4D4; 
+   border-radius: 50%;
+   padding: 10px;
+   background-color: #D4D4D4;
+  position: absolute;  
+ top: 0;
+ left: 211px;
+}
+.sidaber-list{
+    display: flex;
+    flex-wrap: wrap;
+     margin-top: 40px;
+}
+@media (max-width: 1920px){
+    .container{
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+.sidaber .container{
+    padding-left: 20px;
+    padding-right: 20px;  
+    padding-top: 20px;  
+    padding-top: 150px;
+}
+.sidaber-subtitle{
+    font-family: Unbounded;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    color: #000000; 
+}
+.sidaber-subtext{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #000000;
+margin-top: 40px;
+}
+.sidaber-subject{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #000000;
+}
+.sidaber-img{
+    width: 250px;
+    height: 187.83px;
+    border-radius: 15px;
+     
+     
+}
+.sidaber-item{
+    position: relative;
+    width: 266px;
+height: 243.8300018310547px;
+ flex: 20%;
+}
+.sidaber-logo{
+   border: 1px solid #D4D4D4; 
+   border-radius: 50%;
+   padding: 10px;
+   background-color: #D4D4D4;
+  position: absolute;  
+ top: 0;
+ left: 211px;
+}
+.sidaber-list{
+    display: flex;
+    flex-wrap: wrap;
+     margin-top: 40px;
+}
+}
+@media (max-widht: 1440px){
+    .container{
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .sidaber .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 150px;
+    }
+    .sidaber-subtitle{
+        font-family: Unbounded;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        vertical-align: middle;
+        color: #000000; 
+    }
+    .sidaber-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+    margin-top: 40px;
+    }
+    .sidaber-subject{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .sidaber-img{
+        width: 223.5px;
+        height: 167.92px;
+        border-radius: 15px;
+         
+         
+    }
+    .sidaber-item{
+        position: relative;
+        width: 223.5px;
+        height: 223.9199981689453px;
+     flex: 25%;
+    }
+    .sidaber-logo{
+       border: 1px solid #D4D4D4; 
+       border-radius: 50%;
+       padding: 10px;
+       background-color: #D4D4D4;
+      position: absolute;  
+     top: 0;
+     left: 211px;
+    }
+    .sidaber-list{
+        display: flex;
+        flex-wrap: wrap;
+         margin-top: 40px;
+    }
+}
+@media (max-width: 1000px){
+    .container{
+        max-width: 760px;
+        margin: 0 auto;
+    }
+    .sidaber .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 150px;
+    }
+    .sidaber-subtitle{
+        font-family: Unbounded;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        vertical-align: middle;
+        color: #000000; 
+    }
+    .sidaber-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+    margin-top: 40px;
+    }
+    .sidaber-subject{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .sidaber-img{
+        width: 229.33px;
+        height: 172.3px;
+        border-radius: 15px;
+         
+         
+    }
+    .sidaber-item{
+        position: relative;
+        width: 229.33px;
+    height: 221.3px;
+     flex: 33%;
+    }
+    .sidaber-logo{
+       border: 1px solid #D4D4D4; 
+       border-radius: 50%;
+       padding: 10px;
+       background-color: #D4D4D4;
+      position: absolute;  
+     top: 0;
+     left: 190px;
+    }
+    .sidaber-list{
+        display: flex;
+        flex-wrap: wrap;
+         margin-top: 40px;
+    }
+}
+@media (max-width: 760px){
+    .container{
+        max-width: 390px;
+        margin: 0 auto;
+    }
+    .sidaber .container{
+        padding-left: 20px;
+        padding-right: 20px;  
+        padding-top: 20px;  
+        padding-top: 80px;
+    }
+    .sidaber-subtitle{
+        font-family: Unbounded;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        vertical-align: middle;
+        color: #000000; 
+    }
+    .sidaber-subtext{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+    margin-top: 40px;
+    }
+    .sidaber-subject{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .sidaber-img{
+        width: 165px;
+        height: 123.97000122070312px;
+        border-radius: 15px;
+        
+         
+         
+    }
+    .sidaber-item{
+        position: relative;
+        width: 165px;
+        height: 163.97000122070312px;
+     flex: 50%;
+    }
+    .sidaber-logo{
+       border: 1px solid #D4D4D4; 
+       border-radius: 50%;
+       padding: 10px;
+       background-color: #D4D4D4;
+      position: absolute;  
+     top: 0;
+     left: 125px;
+    }
+    .sidaber-list{
+        display: flex;
+        flex-wrap: wrap;
+         margin-top: 40px;
+    }
+}

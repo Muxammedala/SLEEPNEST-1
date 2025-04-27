@@ -1,0 +1,498 @@
+.panel .container{
+    padding-left: 150px;
+    padding-right: 150px;  
+    padding-top: 100px;
+}
+.panel-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.panel-img{
+    width: 300px;
+    height: 91.97px;
+}
+.panel-text{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #908D8DDD;
+width: 382.14px;
+margin-top: 20px;
+}
+.panel-subtitle{
+    font-family: Unbounded;
+font-weight: 700;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #000000;
+}
+.panel-lead{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #4E4E4E;
+margin-top: 20px;
+}
+.panel-subject{
+    font-family: Unbounded;
+font-weight: 700;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #000000;
+}
+.panel-title{
+    font-family: Unbounded;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #4E4E4E;
+margin-top: 20px;
+}
+.panel-btn{
+    width: 442px;
+    height: 57px;
+    border: 1px solid #555353;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.panel-desc{
+    width: 113.33px;
+    height: 45px;
+    border: 1px solid red;
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+    position: absolute;
+     left: 320px;
+     top: 6px;
+}
+.panel-desc:hover{
+    color: red;
+    background-color: white;
+}
+.panel-bar{
+    position: relative;
+    margin-top: 20px;
+}
+@media (max-width: 1920px){
+    .container{
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    .panel .container{
+        padding-left: 20px;
+        padding-right: 20px;
+         padding-top: 50px;
+    }
+    .panel-list{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .panel-img{
+        width: 300px;
+        height: 91.97px;
+    }
+    .panel-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #908D8DDD;
+    width: 382.14px;
+    margin-top: 20px;
+    }
+    .panel-subtitle{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-lead{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-subject{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-title{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-btn{
+        width: 442px;
+        height: 57px;
+        border: 1px solid #555353;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+    .panel-desc{
+        width: 113.33px;
+        height: 45px;
+        border: 1px solid red;
+        border-radius: 20px;
+        color: white;
+        background-color: red;
+        position: absolute;
+         left: 320px;
+         top: 6px;
+    }
+    .panel-desc:hover{
+        color: red;
+        background-color: white;
+    }
+    .panel-bar{
+        position: relative;
+        margin-top: 20px;
+    }
+}
+@media (max-widht: 1440px){
+    .container{
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .panel .container{
+        padding-left: 20px;
+        padding-right: 20px;
+         padding-top: 50px;
+    }
+    .panel-list{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .panel-img{
+        width: 300px;
+        height: 91.97px;
+    }
+    .panel-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #908D8DDD;
+    width: 382.14px;
+    margin-top: 20px;
+    }
+    .panel-subtitle{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-lead{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-subject{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-title{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-btn{
+        width: 442px;
+        height: 57px;
+        border: 1px solid #555353;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+    .panel-desc{
+        width: 113.33px;
+        height: 45px;
+        border: 1px solid red;
+        border-radius: 20px;
+        color: white;
+        background-color: red;
+        position: absolute;
+         left: 320px;
+         top: 6px;
+    }
+    .panel-desc:hover{
+        color: red;
+        background-color: white;
+    }
+    .panel-bar{
+        position: relative;
+        margin-top: 20px;
+    }
+}
+@media (max-width: 1000px){
+    .container{
+        max-width: 760px;
+        margin: 0 auto;
+    }
+    .panel .container{
+        padding-left: 20px;
+        padding-right: 20px;
+         padding-top: 50px;
+    
+    }
+    .panel-list{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 80px;
+    }
+    .panel-item{
+        flex: 25%;
+        margin-top: 40px;
+    } 
+    
+    .panel-img{
+        width: 300px;
+        height: 91.97px;
+    }
+    .panel-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #908D8DDD;
+    width: 382.14px;
+    margin-top: 20px;
+    }
+    .panel-subtitle{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-lead{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-subject{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-title{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-btn{
+        width: 442px;
+        height: 57px;
+        border: 1px solid #555353;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+    .panel-desc{
+        width: 113.33px;
+        height: 45px;
+        border: 1px solid red;
+        border-radius: 20px;
+        color: white;
+        background-color: red;
+        position: absolute;
+         left: 320px;
+         top: 6px;
+    }
+    .panel-desc:hover{
+        color: red;
+        background-color: white;
+    }
+    .panel-bar{
+        position: relative;
+        margin-top: 20px;
+    }
+}
+@media (max-width: 760px){
+    .container{
+        max-width: 390px;
+        margin: 0 auto;
+    }
+    .panel .container{
+        padding-left: 20px;
+        padding-right: 20px;
+         padding-top: 50px;
+    
+    }
+    .panel-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    
+    
+    .panel-item {
+        flex: 1 1 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .panel-item:nth-child(1),
+    .panel-item:nth-child(4) {
+        flex: 1 1 100%; 
+        max-width: 100%;
+    }
+    .panel-item:nth-child(2),
+    .panel-item:nth-child(3) {
+        flex: 1 1 48%;  
+        max-width: 48%;
+    }
+    
+    .panel-img{
+        width: 300px;
+        height: 91.97px;
+    }
+    .panel-text{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #908D8DDD;
+    width: 382.14px;
+    margin-top: 20px;
+    }
+    .panel-subtitle{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-lead{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-subject{
+        font-family: Unbounded;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #000000;
+    }
+    .panel-title{
+        font-family: Unbounded;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #4E4E4E;
+    margin-top: 20px;
+    }
+    .panel-btn{
+        width: 362px;
+        height: 57px;
+        border: 1px solid #555353;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+    .panel-desc{
+        width: 113.33px;
+        height: 45px;
+        border: 1px solid red;
+        border-radius: 20px;
+        color: white;
+        background-color: red;
+        position: absolute;
+         left: 240px;
+         top: 6px;
+    }
+    .panel-desc:hover{
+        color: red;
+        background-color: white;
+    }
+    .panel-bar{
+        position: relative;
+        margin-top: 20px;
+    }
+}
